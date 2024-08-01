@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-    <a href = "https://www.linkedin.com/in/eduardo-ara%C3%BAjo-19a906280/" target="_blank">
+    <a href = "https://www.linkedin.com/in/eduardoavs/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank" />
     </a>
     <a href = "mailto:eduuardo612@gmail.com" target="_blank">

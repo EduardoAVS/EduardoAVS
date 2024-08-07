@@ -8,7 +8,7 @@
     <a href = "https://www.linkedin.com/in/eduardoavs/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank" />
     </a>
-    <a href = "mailto:eduuardo612@gmail.com" target="_blank">
+    <a href = "mailto:eduardoavsdev@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank" />
     </a>
     <a href = "https://leetcode.com/EduardoAVS/" target="_blank">
